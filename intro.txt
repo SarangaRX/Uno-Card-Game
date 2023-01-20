@@ -1,0 +1,25 @@
+PLAYER GUIDE  
+
+This is a C++ version of the Uno card game. 
+Creator: RabBitz (2020) 
+The rules are the same as the acutal card game, but you must declare uno as you play your second to last card.Meaning if you have two cards left, 
+during you turn you will have to pick a card and declare uno i.e. >> 1 uno 
+Have fun playing the game :) 
+ 
+01.Each player gets 7 cards and the rest of the cards are placed in a draw pile face down.
+02.The top card of the draw pile is placed in the discard pile face up, and the game begins.
+03.Players have to match cards from their hands with the top card of discard pile by number, color or action.
+04.Also players can play with wild card or wild draw four card in their turns. 
+05.If the player has no matches or they choose not to play even though they might have a match, they must draw a card from the draw pile & if that card can be played, player can play it or keep the card. 
+if a player has just one card, he must say “Uno”. If they are caught not saying “Uno” by another player before the next player has taken his turn, that player must draw two new cards as a penalty.
+When one player is out of cards, the game ends.
+06.Add the values of the cards remaining in other players’ hands, and put it as the
+score of the winner of that turn.
+07.Maximum number of players who can participate in the latest update of the game is 10.
+
+Points Are added as follows.
+● All Number cards - Face Value
+● Draw 2, Reverse, Skip - 20 pts
+● Wild, Wild Draw 4 - 50 pts
+
+Start a new turn until someone scores 500 pts
